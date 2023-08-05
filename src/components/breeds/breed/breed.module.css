@@ -1,0 +1,10 @@
+.breed {
+    background-color: white;
+    margin-bottom: 2%;
+    margin-top: 2%;
+    margin-left: 5%;
+    padding: 10px;
+
+    box-sizing: border-box;
+    border-radius: 15px;
+}
